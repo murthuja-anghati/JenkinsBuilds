@@ -19,7 +19,7 @@ import static org.hibernate.cfg.Environment.*;
 @EnableTransactionManagement
 @ComponentScans(value = { @ComponentScan("com.boraji.tutorial.spring.dao"),
       @ComponentScan("com.boraji.tutorial.spring.service") })
-public class AppConfig {
+public class AppConfig      {
 
    @Autowired
    private Environment env;

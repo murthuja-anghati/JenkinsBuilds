@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\Murthuja\DevOps_Training\Jenkins_Projects\JenkinsBuilds\spring-mvc-restfull-crud-example\src\main\java\com\boraji\tutorial\spring\config\MyWebAppInitializer.java
 D:\Murthuja\DevOps_Training\Jenkins_Projects\JenkinsBuilds\spring-mvc-restfull-crud-example\src\main\java\com\boraji\tutorial\spring\dao\BookDaoImp.java
 D:\Murthuja\DevOps_Training\Jenkins_Projects\JenkinsBuilds\spring-mvc-restfull-crud-example\src\main\java\com\boraji\tutorial\spring\dao\BookDao.java
@@ -7,3 +8,14 @@ D:\Murthuja\DevOps_Training\Jenkins_Projects\JenkinsBuilds\spring-mvc-restfull-c
 D:\Murthuja\DevOps_Training\Jenkins_Projects\JenkinsBuilds\spring-mvc-restfull-crud-example\src\main\java\com\boraji\tutorial\spring\service\BookService.java
 D:\Murthuja\DevOps_Training\Jenkins_Projects\JenkinsBuilds\spring-mvc-restfull-crud-example\src\main\java\com\boraji\tutorial\spring\config\AppConfig.java
 D:\Murthuja\DevOps_Training\Jenkins_Projects\JenkinsBuilds\spring-mvc-restfull-crud-example\src\main\java\com\boraji\tutorial\spring\service\BookServiceImp.java
+=======
+D:\Jenkins\Projects\JenkinsBuilds\spring-mvc-restfull-crud-example\src\main\java\com\boraji\tutorial\spring\model\Book.java
+D:\Jenkins\Projects\JenkinsBuilds\spring-mvc-restfull-crud-example\src\main\java\com\boraji\tutorial\spring\config\AppConfig.java
+D:\Jenkins\Projects\JenkinsBuilds\spring-mvc-restfull-crud-example\src\main\java\com\boraji\tutorial\spring\config\MyWebAppInitializer.java
+D:\Jenkins\Projects\JenkinsBuilds\spring-mvc-restfull-crud-example\src\main\java\com\boraji\tutorial\spring\dao\BookDao.java
+D:\Jenkins\Projects\JenkinsBuilds\spring-mvc-restfull-crud-example\src\main\java\com\boraji\tutorial\spring\controller\BookController.java
+D:\Jenkins\Projects\JenkinsBuilds\spring-mvc-restfull-crud-example\src\main\java\com\boraji\tutorial\spring\config\WebConfig.java
+D:\Jenkins\Projects\JenkinsBuilds\spring-mvc-restfull-crud-example\src\main\java\com\boraji\tutorial\spring\dao\BookDaoImp.java
+D:\Jenkins\Projects\JenkinsBuilds\spring-mvc-restfull-crud-example\src\main\java\com\boraji\tutorial\spring\service\BookService.java
+D:\Jenkins\Projects\JenkinsBuilds\spring-mvc-restfull-crud-example\src\main\java\com\boraji\tutorial\spring\service\BookServiceImp.java
+>>>>>>> 6906f9e7d214c38405cb38907e39dc8c1b53e87a
